@@ -1,1 +1,1 @@
-# Calculator
+This is calculator program.
